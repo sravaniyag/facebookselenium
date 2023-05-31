@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-//Hello world
-//
-=======
-//merging conflicts
->>>>>>> feature1
+//hello world
